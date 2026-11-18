@@ -1,0 +1,4 @@
+# AutoRecon-X — Optional Dependencies
+# The tool runs on Python 3.7+ standard library alone.
+# Install rich for colorful terminal output (recommended):
+rich>=10.0.0
